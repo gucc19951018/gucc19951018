@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gucc19951018
-- 👀 I’m interested in bilibili.com
+- 👀 I’m interested in NoSQL.
 - 🌱 I’m currently learning how to do something meaningful
 - 💞️ I’m looking to collaborate on maritime internet lab
 - 📫 My email is guchocho@163.com
